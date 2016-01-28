@@ -6,6 +6,5 @@
 package program1;
 
 public class MyString {
-    public MyString()
-    {}
+
 }
